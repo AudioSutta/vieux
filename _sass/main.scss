@@ -99,13 +99,14 @@ body {
     width: 95%;
   }
 	.title-section-cover {
-		a {
+	a {
           text-decoration: none;
           color: var(--primary-text-color);
           &:hover {
             border-bottom: 0px solid var(--primary-text-color);
             color: var(--primary-text-color);
-          }	
+          }
+        }
 	}
   nav {
     display: flex;
