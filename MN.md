@@ -15,7 +15,7 @@ permalink: /MN/
 
 <audio ref='themeSong' src="MN140_-_Exposition_des_Elements.mp3" p>test</audio>
 
-[elephant](/MN140_-_Exposition_des_Elements.mp3)
+[Écouter l'audio](/MN140_-_Exposition_des_Elements.mp3)
 
 <script>
 var audio = new Audio("https://raw.githubusercontent.com/audiosutta/audiosutta.github.io/master/MN140_-_Exposition_des_Elements.mp3")
