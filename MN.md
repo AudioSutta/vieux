@@ -28,6 +28,8 @@ En passant la nuit dans l’atelier d’un potier, le Bouddha a une rencontre fo
 </iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293&amp;{ ADD YOUR PARAMETERS HERE }">
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/951884170">
 </iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/951884170&color=%23c9c9c9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bruno-leger-999797465" title="Le Vieux Sage" target="_blank" style="color: #cccccc; text-decoration: none;">Le Vieux Sage</a> · <a href="https://soundcloud.com/bruno-leger-999797465/dhammapada-les-versets-du-bouddha" title="Dhammapada - Les Versets du Bouddha" target="_blank" style="color: #cccccc; text-decoration: none;">Dhammapada - Les Versets du Bouddha</a></div>
 
