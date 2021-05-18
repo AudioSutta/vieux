@@ -18,7 +18,7 @@ En passant la nuit dans l’atelier d’un potier, le Bouddha a une rencontre fo
 <iframe
   frameborder="0"
   width="400"
-  height="100"
+  height="200"
   allowtransparency="true" 
   style="background-color: #222;" 
   src="https://drive.google.com/file/d/1wDtie99mj8k1Mbhn_FdVLkHaxnZ23RDN/preview">
