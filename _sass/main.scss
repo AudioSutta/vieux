@@ -99,14 +99,7 @@ body {
     width: 95%;
   }
 	.title-section-cover {
-	a {
-          text-decoration: none;
-          color: var(--primary-text-color);
-          &:hover {
-            border-bottom: 0px solid var(--primary-text-color);
-            color: var(--primary-text-color);
-          }
-        }
+	
 	}
   nav {
     display: flex;
@@ -120,6 +113,14 @@ body {
       flex-grow: 2;
       text-align: center;
       margin: 10px;
+	  a {
+          text-decoration: none;
+          color: var(--primary-text-color);
+          &:hover {
+            border-bottom: 0px solid var(--primary-text-color);
+            color: var(--primary-text-color);
+            }
+          }
     }
     ul {
       display: flex;
