@@ -22,6 +22,16 @@ body {
   color: var(--primary-text-color);
   transition: background 0.1s ease-in, color 0.1s ease-in;
   // font-size: 120%;
+	h1 {
+    font-size: 3.5rem;
+    font-weight: 600;
+	text-align : center;
+  }
+	h2 {
+      font-size: 2rem;
+    font-weight: 400;
+	text-align : center;
+  }
 }
 .mid-section-home {
   text-align: center;
