@@ -17,6 +17,11 @@ permalink: /MN/
 
 [elephant](/MN140_-_Exposition_des_Elements.mp3)
 
+<script>
+var audio = new Audio("https://raw.githubusercontent.com/audiosutta/audiosutta.github.io/master/MN140_-_Exposition_des_Elements.mp3")
+audio.play()
+</script>
+
 
 DHĀTUVIBHAṄGA SUTTA
 
