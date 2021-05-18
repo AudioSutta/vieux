@@ -4,7 +4,7 @@ title: Discours moyens
 permalink: /MN/
 ---
 
-# Dicours de longueur moyenne
+# Discours de longueur moyenne
 
 ##MN 140 L'exposition des éléments
 
