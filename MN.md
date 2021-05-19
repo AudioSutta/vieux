@@ -6,7 +6,7 @@ permalink: /MN/
 
 ## Moyens discours
 
-### MN 140 L'exposition des éléments
+### MN 140 - L'exposition des éléments
 
 Traduit par : Jeanne Schut\
 Lu par : Bruno Léger
