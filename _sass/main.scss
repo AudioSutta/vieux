@@ -116,7 +116,7 @@ body {
   @include mediaQuery(phone-width) {
     width: 95%;
   }
-  nav, footer {
+  nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -182,7 +182,60 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     border-top: 2px solid white;
+    h1 {
+      // align-self: flex-start;
+      font-size: 40px;
+      flex-grow: 2;
+      text-align: center;
+      margin: 10px;
+	  
+	  a {
+          text-decoration: none;
+          color: white;
+          &:hover {
+            border-bottom: 0px solid white;
+            color: white;
+            }
+          }
+	}
+    ul {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      align-items: center;
+      flex-grow: 5;
+      padding-inline-start: 0;
+      li {
+        padding: 0 20px;
+        list-style-type: none;
+        a {
+          text-decoration: none;
+          color: white;
+          &:hover {
+            border-bottom: 2px solid white;
+            color: white;
+          }
+        }
+        @include mediaQuery(phone-width) {
+          text-align: center;
+          padding: 0 10px;
+        }
+      }
+    }
+    @include mediaQuery(tablet-width) {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      ul {
+        justify-content: center;
+      }
+      h1 {
+        text-align: center;
+      }
+    }
   }
+	
   .sub-mid-section-cover {
     width: 100%;
     margin: 0 auto;
