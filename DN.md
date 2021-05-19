@@ -4,9 +4,9 @@ title: Discours longs
 permalink: /DN/
 ---
 
-## longs discours
+## Longs discours
 
-### DN 22 Le Grand Discours sur l'Etablissement de l'Attention
+### DN 22 - Le Grand Discours sur l'Etablissement de l'Attention
 
 Traduit par : Jeanne Schut\
 Lu par : Jeanne Schut
