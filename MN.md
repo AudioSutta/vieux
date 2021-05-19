@@ -20,6 +20,8 @@ En passant la nuit dans l’atelier d’un potier, le Bouddha a une rencontre fo
 </div>
 </div>
 
+google
+
 <iframe
   frameborder="0"
   width="400"
@@ -28,6 +30,10 @@ En passant la nuit dans l’atelier d’un potier, le Bouddha a une rencontre fo
   style="background-color: #222;" 
   src="https://drive.google.com/file/d/1wDtie99mj8k1Mbhn_FdVLkHaxnZ23RDN/preview">
 </iframe>
+
+spotify
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/951884170&color=%23845414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bruno-leger-999797465" title="Le Vieux Sage" target="_blank" style="color: #cccccc; text-decoration: none;">Le Vieux Sage</a> · <a href="https://soundcloud.com/bruno-leger-999797465/dhammapada-les-versets-du-bouddha" title="Dhammapada - Les Versets du Bouddha" target="_blank" style="color: #cccccc; text-decoration: none;">Dhammapada - Les Versets du Bouddha</a></div>
 
 anchor
 
