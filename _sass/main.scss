@@ -29,17 +29,14 @@ body {
 	text-align : center;
   }
 }
-.container {
-  display: flex;
-  justify-content: center;
-}
-.center {
-  max-width: 400px; 
+//.container {
+ // display: flex;
+  //justify-content: center;
+//}
+.justice {
+  max-width: 500px; 
   padding: 10px;
-  background: #5F85DB;
-  color: #fff;
-  font-weight: bold;
-  font-family: Tahoma;
+  text-align:justify;
 }
 .mid-section-home {
   text-align: center;
@@ -181,6 +178,8 @@ body {
     margin: 0 auto;
     margin-top: 20px;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
     img {
       max-width: 100%;
     }
