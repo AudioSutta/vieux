@@ -29,6 +29,18 @@ body {
 	text-align : center;
   }
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  width: 400px; 
+  padding: 10px;
+  background: #5F85DB;
+  color: #fff;
+  font-weight: bold;
+  font-family: Tahoma;
+}
 .mid-section-home {
   text-align: center;
   display: flex;
