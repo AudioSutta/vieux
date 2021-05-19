@@ -8,8 +8,7 @@ permalink: /MN/
 
 ### # 140 L'exposition des éléments
 
-Traduit par : Jeanne Schut
-
+Traduit par : Jeanne Schut\
 Lu par : Bruno Léger
 
 <div class="justice">
