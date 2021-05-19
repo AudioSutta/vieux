@@ -29,10 +29,10 @@ body {
 	text-align : center;
   }
 }
-//.container {
- // display: flex;
-  //justify-content: center;
-//}
+.container {
+  display: flex;
+  justify-content: center;
+}
 .justice {
   max-width: 500px; 
   padding: 10px;
@@ -178,8 +178,6 @@ body {
     margin: 0 auto;
     margin-top: 20px;
     overflow: hidden;
-    display: flex;
-    justify-content: center;
     img {
       max-width: 100%;
     }
