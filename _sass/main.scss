@@ -43,7 +43,7 @@ body {
   @include mediaQuery(phone-width) {
     font-size: 1 rem;
     span {
-      display: none;
+      // display: none;
     }
   }
   h1 {
@@ -105,9 +105,6 @@ body {
   @include mediaQuery(phone-width) {
     width: 95%;
   }
-	.title-section-cover {
-	
-	}
   nav {
     display: flex;
     flex-direction: row;
