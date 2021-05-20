@@ -9,10 +9,11 @@
     }
   }
 }
-@font-face {
-	font-family: "EB Garamond";
-	src: url("../assets/fonts/EB Garamond.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+//@font-face {
+//	font-family: "EB Garamond";
+//	src: url("../assets/fonts/EB Garamond.ttf");
+//}
 html {
   padding: 0;
   margin: 0;
