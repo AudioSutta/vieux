@@ -7,4 +7,4 @@ permalink: /contact/
 
 Pour toute suggestion ou commentaire, veuillez écrire à : 
 
-audiosutta@gmail.com
+<audiosutta@gmail.com>
