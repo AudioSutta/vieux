@@ -41,6 +41,13 @@ permalink: /source/
 
 ##### Sites en anglais
 
+Test
+
+| DN | &nbsp; Dīgha Nikāya |
+| MN | &nbsp; Majjhima Nikāya |
+| AN | &nbsp; Aṅguttara Nikāya |
+| SN | &nbsp; Saṃyutta Nikāya |
+| KN | &nbsp; Khuddaka Nikāya |
 
 
 
