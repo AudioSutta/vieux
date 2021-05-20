@@ -1,7 +1,7 @@
 ---
 layout: description
-title: Source
-permalink: /source/
+title: Sources
+permalink: /sources/
 ---
 ## Source
 
