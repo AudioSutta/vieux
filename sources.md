@@ -28,7 +28,7 @@ permalink: /sources/
       <td>&nbsp; Khuddaka Nikāya</td>
     </tr>
     <tr>
-      <td>Sn</td>
+      <td>Snp</td>
       <td>&nbsp; Sutta Nipata</td>
     </tr>
     <tr>
