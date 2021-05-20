@@ -8,21 +8,7 @@ permalink: /source/
 | DN | Digha Nikaya |
 | MN | Majjhima Nikaya |
 | AN | Anguttara Nikaya |
-| SN | Samyutta Nikaya |
-| KN | Kundhaka Nikaya |
-
-* DN Digha Nikaya
-* MN Majjhima Nikaya
-* test &nbsp; test
-
-<div class="container2">
-  <div class="justice">
-  
-* DN Digha Nikaya
-* MN Majjhima Nikaya
-* test &nbsp; test
-
-  </div>
-</div>
+| SN | &nbsp; Samyutta Nikaya |
+| KN | &nbsp; Kundhaka Nikaya |
 
 
