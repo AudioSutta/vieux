@@ -1,6 +1,6 @@
 ---
 layout: description
-title: Discours moyens
+title: Moyens discours
 permalink: /MN/
 ---
 
