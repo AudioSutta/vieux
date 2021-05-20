@@ -17,7 +17,7 @@ permalink: /source/
     </tr>
     <tr>
       <td>AN</td>
-      <td>&nbsp; Aṅguttara Nikāyaa</td>
+      <td>&nbsp; Aṅguttara Nikāya</td>
     </tr>
     <tr>
       <td>SN</td>
