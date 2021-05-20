@@ -5,15 +5,11 @@ permalink: /source/
 ---
 ## Source
 
-<center>
-
 | DN | &nbsp; Dīgha Nikāya |
 | MN | &nbsp; Majjhima Nikāya |
 | AN | &nbsp; Aṅguttara Nikāyaa |
 | SN | &nbsp; Saṃyutta Nikāya |
 | KN | &nbsp; Khuddaka Nikāya |
-
-</center>
 
 ### Sites de traductions du Canon Pali
 
