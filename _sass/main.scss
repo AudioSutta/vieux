@@ -9,7 +9,8 @@
     }
   }
 }
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Playfair+Display&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 //@font-face {
 //	font-family: "EB Garamond";
 //	src: url("../assets/fonts/EB Garamond.ttf");
@@ -22,7 +23,7 @@ html {
 body {
   background-color: #222;
   color: white;
-  font-family: "EB Garamond","Times New Roman", Times, serif;
+  font-family: "Playfair Display","Times New Roman", Times, serif;
   // font-size: 120%;
 	h1 {
     font-size: 3.5rem;
