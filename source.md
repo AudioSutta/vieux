@@ -5,7 +5,7 @@ permalink: /source/
 ---
 ## Source
 
-<table class="centertable">
+<table class="tablecenter">
   <tbody>
     <tr>
       <td>DN</td>
