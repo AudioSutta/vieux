@@ -34,6 +34,9 @@ body {
   justify-content: center;
   margin-bottom: 20px;
 }
+.center {
+  margin : auto;
+}
 .justice {
   max-width: 500px; 
   padding: 10px;
@@ -105,7 +108,7 @@ body {
   }
 }
 .mid-section-cover {
-  text-align: center;
+  text-align: justify;
   width: 60%;
   margin: 0 auto;
   margin-top: 50px;
@@ -239,7 +242,7 @@ body {
   }
 	
   .sub-mid-section-cover {
-    width: 100%;
+    max-width: 500px ;
     min-height: 600px;
     margin: 0 auto;
     margin-top: 20px;
@@ -250,17 +253,23 @@ body {
     a {
       color: white;
     }
+    p{
+      margin-bottom:20px;
+    }
     h1 {
     font-size: 3.5rem;
     font-weight: 600;
-     }
-     h1 {
-     text-align : center; 
-     } 
-      h2 {
-      text-align : center;
-      }
-    
+    text-align : center; 
+    }
+    h2 {
+    text-align : center;
+    }
+    h3 {
+    text-align : center;
+    }
+    h4 {
+    text-align : center;
+    }
   }
 }
 
