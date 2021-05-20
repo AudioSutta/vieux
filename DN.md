@@ -16,7 +16,15 @@ Le Bouddha détaille le septième facteur de la noble voie octuple, la méditati
        width="300"
        height="32"
        controls="controls"
-       src="https://docs.google.com/uc?export=open&amp;id=1C-QksPcGVlLbe_cDnaBxN4bsm4jlMnvM"
+       src="https://docs.google.com/uc?export=open&amp;id=1wux3iSlL-5NshpLI5UWUo5ZeB-PpOTFY"
+       type="audio/mp3">
+  </audio>
+
+  <audio
+       width="300"
+       height="32"
+       controls="controls"
+       src="https://docs.google.com/uc?export=open&amp;id=1wux3iSlL-5NshpLI5UWUo5ZeB-PpOTFY"
        type="audio/mp3">
   </audio>
 </div>
