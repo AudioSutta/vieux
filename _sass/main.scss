@@ -246,7 +246,7 @@ body {
         justify-content: center;
       }
       li {
-        padding-boyyom: 5x;
+        padding-bottom: 5x;
       }
       h1 {
         text-align: center;
@@ -260,6 +260,9 @@ body {
     margin: 0 auto;
     margin-top: 20px;
     overflow: hidden;
+    li {
+        padding-bottom: 5x;
+      }
     img {
       max-width: 100%;
     }
