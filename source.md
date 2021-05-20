@@ -5,8 +5,7 @@ permalink: /source/
 ---
 ## Source
 
-<div class="center">
-<table>
+<table class="center">
   <tbody>
     <tr>
       <td>DN</td>
@@ -30,7 +29,6 @@ permalink: /source/
     </tr>
   </tbody>
 </table>
-</div>
 
 ##### Sites de traductions du Canon Pali
 
