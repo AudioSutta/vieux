@@ -23,17 +23,23 @@ html {
 body {
   background-color: #222;
   color: white;
-  font-family: "Playfair Display","Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif;
   // font-size: 120%;
-	h1 {
+  h1 {
     font-size: 3.5rem;
     font-weight: 600;
-	text-align : center;
+    text-align : center;
   }
-	h2 {
-      font-size: 2rem;
+  h2 {
+    font-size: 2rem;
     font-weight: 400;
-	text-align : center;
+    text-align : center;
+  }
+  h3 {
+    font-family: "EB Garamond","Times New Roman", Times, serif;
+  }
+  p {
+    font-family: "EB Garamond","Times New Roman", Times, serif;
   }
 }
 .container {
