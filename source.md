@@ -11,6 +11,10 @@ permalink: /source/
 | SN | Samyutta Nikaya |
 | KN | Kundhaka Nikaya |
 
+* DN Digha Nikaya
+* MN Majjhima Nikaya
+* test &nbsp; test
+
 <div class="container2">
   <div class="justice">
   
