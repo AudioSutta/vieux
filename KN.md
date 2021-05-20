@@ -6,9 +6,11 @@ permalink: /KN/
 
 ## Discours divers
 
-### ud 1.10 - A propos de Bahiya
+### Ud 1.10 - A propos de Bahiya
 #### Traduit par : Jeanne Schut
 #### Lu par : Céline Blasco
+
+L'ascétique Bāhiya devient un arahant après avoir reçu un bref enseignement sur le fait de ne rien ajouter à l'expérience sensorielle.
 
 <div class="center">
   <audio
@@ -20,9 +22,11 @@ permalink: /KN/
   </audio>
 </div>
 
-### Sn 1.8 & Khp 9 - Hymne de l’amour universel
+### Snp 1.8 & Khp 9 - Hymne de l’amour universel
 #### Traduit par : Jeanne Schut
 #### Lu par : Jeanne Schut
+
+La pratique du développement de la bonne volonté universelle: les pratiques qui forment le fondement de la pratique, l'attitude de la bonne volonté universelle elle-même, et les étapes qui mènent de la bonne volonté à l'éveil.
 
 <div class="center">
   <audio
