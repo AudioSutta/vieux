@@ -23,3 +23,16 @@ En passant la nuit dans l’atelier d’un potier, le Bouddha a une rencontre fo
   </audio>
 </div>
 
+### Sn 1.8 & Khp 9 - Hymne de l’amour universel
+#### Traduit par : Jeanne Schut
+#### Lu par : Jeanne Schut
+
+<div class="center">
+  <audio
+       width="300"
+       height="32"
+       controls="controls"
+       src="https://docs.google.com/uc?export=open&amp;id=1wDtie99mj8k1Mbhn_FdVLkHaxnZ23RDN"
+       type="audio/mp3">
+  </audio>
+</div>
