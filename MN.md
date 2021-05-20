@@ -6,6 +6,22 @@ permalink: /MN/
 
 ## Moyens discours
 
+### MN 118 - L'enseignement de l’attention à la respiration
+#### Traduit par : Jeanne Schut
+#### Lu par : Céline Blasco
+  
+Entouré de nombreux mendiants bien pratiqués, le Bouddha enseigne la pleine conscience de la respiration en détail, montrant comment ils se rapportent aux quatre types de méditation de pleine conscience.
+
+<div class="center">
+  <audio
+       width="300"
+       height="32"
+       controls="controls"
+       src="https://docs.google.com/uc?export=open&amp;id=1vq6dXi8l-yuXS0LqnYZ6n2671h1W69Ih"
+       type="audio/mp3">
+  </audio>
+</div>
+
 ### MN 140 - L'exposition des éléments
 #### Traduit par : Jeanne Schut
 #### Lu par : Bruno Léger
