@@ -5,7 +5,7 @@ permalink: /source/
 ---
 ## Source
 
-<table class="center">
+<table class="centertable">
   <tbody>
     <tr>
       <td>DN</td>
@@ -40,14 +40,5 @@ permalink: /source/
 - [Éditons Lis](http://editions-lis.org/publications.html)
 
 ##### Sites en anglais
-
-Test
-
-| DN | &nbsp; Dīgha Nikāya |
-| MN | &nbsp; Majjhima Nikāya |
-| AN | &nbsp; Aṅguttara Nikāya |
-| SN | &nbsp; Saṃyutta Nikāya |
-| KN | &nbsp; Khuddaka Nikāya |
-
 
 
