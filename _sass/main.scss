@@ -35,12 +35,6 @@ body {
     font-weight: 400;
     text-align : center;
   }
-  h3 {
-    font-family: "EB Garamond","Times New Roman", Times, serif;
-  }
-  p {
-    font-family: "EB Garamond","Times New Roman", Times, serif;
-  }
 }
 .container {
   display: flex;
@@ -272,6 +266,7 @@ table {
     }
     p{
       margin-bottom:20px;
+      line-height: 1.2em;
     }
     h1 {
     font-size: 3.5rem;
