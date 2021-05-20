@@ -5,11 +5,32 @@ permalink: /source/
 ---
 ## Source
 
-| DN | &nbsp; Dīgha Nikāya |
-| MN | &nbsp; Majjhima Nikāya |
-| AN | &nbsp; Aṅguttara Nikāyaa |
-| SN | &nbsp; Saṃyutta Nikāya |
-| KN | &nbsp; Khuddaka Nikāya |
+<div class="center">
+<table>
+  <tbody>
+    <tr>
+      <td>DN</td>
+      <td>&nbsp; Dīgha Nikāya</td>
+    </tr>
+    <tr>
+      <td>MN</td>
+      <td>&nbsp; Majjhima Nikāya</td>
+    </tr>
+    <tr>
+      <td>AN</td>
+      <td>&nbsp; Aṅguttara Nikāyaa</td>
+    </tr>
+    <tr>
+      <td>SN</td>
+      <td>&nbsp; Saṃyutta Nikāya</td>
+    </tr>
+    <tr>
+      <td>KN</td>
+      <td>&nbsp; Khuddaka Nikāya</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ##### Sites de traductions du Canon Pali
 
@@ -21,13 +42,6 @@ permalink: /source/
 - [Éditons Lis](http://editions-lis.org/publications.html)
 
 ##### Sites en anglais
-
-| [Sutta Central](https://suttacentral.net/pitaka/sutta) | test |
-| [Buddha Vacana](https://www.buddha-vacana.org/fr/index.html) | test |
-| [Canon Pali](http://www.canonpali.org/tipitaka/suttapitaka/suttapitaka.html) | test |
-| [Dhamma de la forêt](http://www.dhammadelaforet.org/list/list_sutta.html) | test |
-| [Le refuge](http://www.refugebouddhique.com/) | test |
-| [Éditons Lis](http://editions-lis.org/publications.html) | test |
 
 
 
