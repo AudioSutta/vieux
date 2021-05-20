@@ -27,6 +27,14 @@ permalink: /sources/
       <td>KN</td>
       <td>&nbsp; Khuddaka Nikāya</td>
     </tr>
+    <tr>
+      <td>Sn</td>
+      <td>&nbsp; Sutta Nipata</td>
+    </tr>
+    <tr>
+      <td>Khk</td>
+      <td>&nbsp; Khuddakapatha</td>
+    </tr>
   </tbody>
 </table>
 
@@ -38,7 +46,5 @@ permalink: /sources/
 - [Dhamma de la forêt](http://www.dhammadelaforet.org/list/list_sutta.html)
 - [Le refuge](http://www.refugebouddhique.com/)
 - [Éditons Lis](http://editions-lis.org/publications.html)
-
-##### Sites en anglais
 
 
