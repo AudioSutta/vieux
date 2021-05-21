@@ -4,7 +4,7 @@ const themeMap = {
     'text-color': 'white',
     'highlight-color': '#2e2e2e'
   },
-  'foncé': {
+  'claire': {
     'background-color': 'white',
     'text-color': '#222',
     'highlight-color': '#eee'
