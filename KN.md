@@ -22,6 +22,10 @@ L'ascétique Bāhiya devient un arahant après avoir reçu un bref enseignement 
   </audio>
 </div>
 
+<div class="center">
+  <img src="/assets/break.png" width="60">
+</div>
+
 ### Snp 1.8 & Khp 9 - Hymne de l’amour universel
 #### Traduit par : Jeanne Schut
 #### Lu par : Jeanne Schut
