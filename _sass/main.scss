@@ -1,4 +1,3 @@
-
 @mixin mediaQuery($point) {
   @if $point == phone-width {
     @media (max-width: 480px) {
@@ -13,18 +12,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Brygada+1918&family=Cinzel&family=EB+Garamond&family=Ibarra+Real+Nova:wght@400;700&family=Petrona&family=Playfair+Display&display=swap');
 
 html {
-  --primary-background-color: #222;
-  --primary-text-color: white;
-  --primary-highlight-color: #eeeeee;
   padding: 0;
   margin: 0;
 }
 
-
 body {
-  background-color: var(--primary-background-color);
-  color: var(--primary-text-color);
-  //	  transition: background 0.1s ease-in, color 0.1s ease-in;
+  background-color: #222;
+  color: white;
   font-family: 'Ibarra Real Nova', 'Times New Roman', Times, serif;
   // font-size: 120%;
   h1 {
@@ -46,8 +40,6 @@ body {
 .tablecenter {
     margin-left:auto; 
     margin-right:auto;
-    font-family: 'Times New Roman', Times, serif;
-
 }
 .center {
     text-align : center;
@@ -85,7 +77,7 @@ body {
   width: 80%;
   margin: 0 auto;
   display: flex;
-	
+
 
   @include mediaQuery(phone-width) {
     width: 60%;
@@ -108,14 +100,14 @@ body {
     text-align: left;
     a {
       text-decoration: none;
-      color: var(--primary-text-color);
+      color: white;
       &:hover {
-        border-bottom: 2px solid var(--primary-text-color);
-        color: var(--primary-text-color);
+        border-bottom: 2px solid white;
+        color: white;
       }
     }
   }
-  border-left: 2px solid var(--primary-text-color);
+  border-left: 2px solid white;
   width: 50%;
   padding-left: 20px;
   // .toNav {
@@ -144,7 +136,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    border-bottom: 2px solid var(--primary-text-color);
+    border-bottom: 2px solid white;
     h1 {
       // align-self: flex-start;
       font-size: 45px;
@@ -152,13 +144,13 @@ body {
       flex-grow: 2;
       text-align: center;
       margin: 10px;
-	  
+
 	  a {
           text-decoration: none;
-          color: var(--primary-text-color);
+          color: white;
           &:hover {
-            border-bottom: 0px solid var(--primary-text-color);
-            color: var(--primary-text-color);
+            border-bottom: 0px solid white;
+            color: white;
             }
           }
 	}
@@ -175,10 +167,10 @@ body {
         list-style-type: none;
         a {
           text-decoration: none;
-          color: var(--primary-text-color);
+          color: white;
           &:hover {
-            border-bottom: 2px solid var(--primary-text-color);
-            color: var(--primary-text-color);
+            border-bottom: 2px solid white;
+            color: white;
           }
         }
         @include mediaQuery(phone-width) {
@@ -207,20 +199,20 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    border-top: 2px solid var(--primary-text-color);
+    border-top: 2px solid white;
     h1 {
       // align-self: flex-start;
       font-size: 40px;
       flex-grow: 2;
       text-align: center;
       margin: 10px;
-	  
+
 	  a {
           text-decoration: none;
-          color: var(--primary-text-color);
+          color: white;
           &:hover {
-            border-bottom: 0px solid var(--primary-text-color);
-            color: var(--primary-text-color);
+            border-bottom: 0px solid white;
+            color: white;
             }
           }
 	}
@@ -237,10 +229,10 @@ body {
         list-style-type: none;
         a {
           text-decoration: none;
-          color: var(--primary-text-color);
+          color: white;
           &:hover {
-            border-bottom: 2px solid var(--primary-text-color);
-            color: var(--primary-text-color);
+            border-bottom: 2px solid white;
+            color: white;
           }
         }
         @include mediaQuery(phone-width) {
@@ -264,7 +256,7 @@ body {
       }
     }
   }
-	
+
   .sub-mid-section-cover {
     max-width: 500px ;
     min-height: 600px;
@@ -278,7 +270,7 @@ body {
       max-width: 100%;
     }
     a {
-      color: var(--primary-text-color);
+      color: white;
     }
     p{
       margin-bottom:20px;
@@ -316,8 +308,8 @@ body {
   position: fixed;
   top: 5px;
   right: 5px;
-  background: var(--primary-background-color);
-  color: var(--primary-text-color);
+  background: '#222';
+  color: white;
   border-radius: 5px;
   border: 0;
   //display: none;
@@ -363,7 +355,7 @@ body {
 
 //custom md tags styles
 div.highlight {
-  background: var(--primary-highlight-color);
+  background: #2e2e2e;
   padding: 5px;
   border-radius: 5px;
   margin: 10px 0px;
