@@ -6,36 +6,57 @@ permalink: /sources/
 ## Sources
 
 <table class="tablecenter">
-  <tbody>
-    <tr>
-      <td>DN</td>
-      <td>&nbsp; Dīgha Nikāya</td>
-    </tr>
-    <tr>
-      <td>MN</td>
-      <td>&nbsp; Majjhima Nikāya</td>
-    </tr>
-    <tr>
-      <td>AN</td>
-      <td>&nbsp; Aṅguttara Nikāya</td>
-    </tr>
-    <tr>
-      <td>SN</td>
-      <td>&nbsp; Saṃyutta Nikāya</td>
-    </tr>
-    <tr>
-      <td>KN</td>
-      <td>&nbsp; Khuddaka Nikāya</td>
-    </tr>
-    <tr>
-      <td>Snp</td>
-      <td>&nbsp; Sutta Nipata</td>
-    </tr>
-    <tr>
-      <td>Khk</td>
-      <td>&nbsp; Khuddakapatha</td>
-    </tr>
-  </tbody>
+<tbody>
+<tr>
+<td>DN</td>
+<td>&nbsp;</td>
+<td>Dīgha Nikāya</td>
+<td>&nbsp;</td>
+<td>Longs discours</td>
+</tr>
+<tr>
+<td>MN</td>
+<td>&nbsp;</td>
+<td>Majjhima Nikāya</td>
+<td>&nbsp;</td>
+<td>Moyens discours</td>
+</tr>
+<tr>
+<td>AN</td>
+<td>&nbsp;</td>
+<td>Aṅguttara Nikāya</td>
+<td>&nbsp;</td>
+<td>Discours num&eacute;rot&eacute;s</td>
+</tr>
+<tr>
+<td>SN</td>
+<td>&nbsp;</td>
+<td>Saṃyutta Nikāya</td>
+<td>&nbsp;</td>
+<td>Discours connect&eacute;s</td>
+</tr>
+<tr>
+<td>KN</td>
+<td>&nbsp;</td>
+<td>Khuddaka Nikāya</td>
+<td>&nbsp;</td>
+<td>Discours divers</td>
+</tr>
+<tr>
+<td>&nbsp;Snp</td>
+<td>&nbsp;</td>
+<td>Sutta Nipata</td>
+<td>&nbsp;</td>
+<td>Collection des Suttas</td>
+</tr>
+<tr>
+<td>&nbsp;Khk</td>
+<td>&nbsp;</td>
+<td>Khuddakapatha</td>
+<td>&nbsp;</td>
+<td>Passages courts</td>
+</tr>
+</tbody>
 </table>
 
 ### Traductions
