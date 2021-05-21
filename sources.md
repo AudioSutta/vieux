@@ -43,14 +43,14 @@ permalink: /sources/
 <td>Discours divers</td>
 </tr>
 <tr>
-<td>&nbsp;Snp</td>
+<td>&#8618;Snp</td>
 <td>&nbsp;</td>
 <td>Sutta Nipata</td>
 <td>&nbsp;</td>
 <td>Collection des Suttas</td>
 </tr>
 <tr>
-<td>&nbsp;Khk</td>
+<td>&#8618;Khk</td>
 <td>&nbsp;</td>
 <td>Khuddakapatha</td>
 <td>&nbsp;</td>
