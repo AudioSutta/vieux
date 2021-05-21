@@ -22,6 +22,10 @@ Le fameux premier discours, enseigné à Varanasi au groupe de cinq ascètes. Il
   </audio>
 </div>
 
+<div class="center">
+  <img src="/assets/break.png" width="60">
+</div>
+
 ### SN 22.59 - La doctrine du non-soi
 #### Traduit par : Jeanne Schut
 #### Lu par : Céline Blasco
