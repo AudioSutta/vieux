@@ -170,6 +170,7 @@ body {
         @include mediaQuery(phone-width) {
           text-align: center;
           padding: 0 10px;
+	  margin-bottom: 5px;
         }
       }
     }
