@@ -3,7 +3,7 @@ layout: description
 title: Sources
 permalink: /sources/
 ---
-## Source
+## Sources
 
 <table class="tablecenter">
   <tbody>
