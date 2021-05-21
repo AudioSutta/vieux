@@ -9,7 +9,7 @@
     }
   }
 }
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Brygada+1918&family=Cinzel&family=EB+Garamond&family=Ibarra+Real+Nova:wght@400;700&family=Petrona&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=family=Ibarra+Real+Nova:wght@400;700&display=swap');
 
 html {
   padding: 0;
@@ -19,14 +19,7 @@ html {
 body {
   background-color: #222;
   color: white;
-  font-family: 'Bodoni Moda', serif;
-  font-family: 'Brygada 1918', serif;
-  font-family: 'Cinzel', serif;
-  font-family: 'EB Garamond', serif;
-  font-family: 'Ibarra Real Nova', serif;
-  font-family: 'Petrona', serif;
-  font-family: 'Playfair Display', serif;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Ibarra Real Nova', 'Times New Roman', Times, serif;
   // font-size: 120%;
   h1 {
     font-size: 3.5rem;
