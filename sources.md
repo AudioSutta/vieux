@@ -38,7 +38,7 @@ permalink: /sources/
   </tbody>
 </table>
 
-##### Sites de traductions du Canon Pali
+### Traductions
 
 - [Sutta Central](https://suttacentral.net/pitaka/sutta) : fournit une collection complète des premiers textes bouddhistes en ligne, y compris les Suttas, Vinaya et Abidhamma. Le site Web a été mis à jour en 2018 et le nouveau site propose une traduction entièrement nouvelle des quatre Pali nikāyas, préparée spécialement pour SuttaCentral par Bhante Sujato.
 - [Buddha Vacana](https://www.buddha-vacana.org/fr/index.html)
