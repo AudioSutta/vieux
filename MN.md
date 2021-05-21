@@ -25,10 +25,6 @@ Entouré de nombreux mendiants bien pratiqués, le Bouddha enseigne la pleine co
 <div class="center">
   <img src="/assets/break.png" width="60">
 </div>
-<div class="centern">
-  <img src="/assets/break.png" width="60">
-</div>
-
 
 ### MN 140 - L'exposition des éléments
 #### Traduction : Jeanne Schut
