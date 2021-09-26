@@ -1,3 +1,11 @@
+## Old version
+
+This is the first verison of the site. the new repo si https://github.com/AudioSutta/audiosutta.github.io
+
+The site is at : audiosutta.com
+
+## License
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  [![Gem Version](https://badge.fury.io/rb/dev-portfolio-blog.svg)](https://badge.fury.io/rb/dev-portfolio-blog)
 ![](https://ruby-gem-downloads-badge.herokuapp.com/dev-portfolio-blog)
