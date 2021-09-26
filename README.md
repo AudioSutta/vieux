@@ -2,7 +2,9 @@
 
 This is the first verison of the site. the new repo si https://github.com/AudioSutta/audiosutta.github.io
 
-The site is at : audiosutta.com
+The new site is at : www.audiosutta.com
+
+This old version is at : www.audiosutta.com/vieux
 
 ## License
 
